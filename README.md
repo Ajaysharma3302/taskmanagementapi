@@ -9,7 +9,7 @@ Cors: A package to allow Cross-Origin Request Sharing (CORS)
 
 # clone repo
 
-# git clone https://github.com/your-repository-name.git
+# git clone https://github.com/Ajaysharma3302/taskmanagementapi.git
 
 #Install dependencies:
 
